@@ -8,5 +8,4 @@ The server supports the following functions:
  - DELETE filename: Delete a file from the server
  - LOGOUT: Disconnect from the server
  - HELP: List all the commands
- 
- YouTube Video: [https://youtu.be/FQ-scCeKWas](https://youtu.be/FQ-scCeKWas)
+
